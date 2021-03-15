@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.venvApiPostoAcai
+.idea
+*.sqlite3
+*pyc
+__pycache__
+staticfiles/
+.ipynb_checkpoints/
+
+
+manage runserver 10.0.0.192:8000
